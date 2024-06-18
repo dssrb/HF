@@ -4,7 +4,7 @@ This will teach you about natural language processing (NLP) using libraries from
 
 Topics:
 
-Transformer Models < br / >
+Transformer Models < br />
 Using 🤗 Transformers < br / >
 Fine-tuning a Pretrained Model < br / >
 Sharing Models & Tokenizers < br / >
